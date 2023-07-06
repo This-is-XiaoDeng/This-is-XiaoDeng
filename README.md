@@ -11,6 +11,8 @@
 
 请多指教！
 
+[![wakatime](https://wakatime.com/badge/user/23cc74e0-49dd-4f6e-b488-67c3123a6289/project/5b6e774e-474c-4a83-a10d-a40e1149ceb8.svg)](https://wakatime.com/badge/user/23cc74e0-49dd-4f6e-b488-67c3123a6289/project/5b6e774e-474c-4a83-a10d-a40e1149ceb8)
+
 - [赞助](https://pay.thisisxd.top)
 - [网站](https://thisisxd.top)
 
