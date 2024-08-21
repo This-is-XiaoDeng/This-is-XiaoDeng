@@ -1,26 +1,21 @@
-
-## 你好啊，这里是小邓！
+## 👋 Hi there, this is XiaoDeng!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=This-is-XiaoDeng&theme=default)
 
-### 关于我....
+### About me
+- High school student
+- One of the original creators of IT Craft Development Team
+- Moonlark-Dev maintainer, developer and [plays almost every role](https://github.com/orgs/Moonlark-Dev/discussions/49)
+- Content creator on [bilibili](https://space.bilibili.com/600432241), upload new videos yearly
 
-- 一名初中生，信息技术爱好者
-- Bilibili不知名年更UP主
-- 喜欢~~唱、跳、Rap、篮球~~
+### Links
 
-请多指教！
+- [Donate](https://pay.thisisxd.top)
+- [Website](https://thisisxd.top)
+- [Blog](https://blog.thisisxd.top)
 
-### 更多
-
-- [赞助](https://pay.thisisxd.top)
-- [网站](https://thisisxd.top)
-- [博客](https://blog.thisisxd.top)
-
-### 统计
+### Statistics
 
 [![wakatime](https://wakatime.com/badge/user/23cc74e0-49dd-4f6e-b488-67c3123a6289.svg)](https://wakatime.com/@23cc74e0-49dd-4f6e-b488-67c3123a6289)
 
 [![This-is-XiaoDeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=This-is-XiaoDeng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
