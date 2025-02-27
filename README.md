@@ -4,9 +4,9 @@
 
 ### About me
 - High school student
-- One of the original creators of IT Craft Development Team
-- Moonlark-Dev maintainer, developer and [plays almost every role](https://github.com/orgs/Moonlark-Dev/discussions/49)
-- Content creator on [bilibili](https://space.bilibili.com/600432241), upload new videos yearly
+- Founder of [IT Craft Development Team](https://github.com/ITCraftDevelopmentTeam)
+- [Moonlark-Dev](https://github.com/Moonlark-Dev) maintainer
+- Content creator on [bilibili](https://space.bilibili.com/600432241), upload new videos (almost) yearly
 
 ### Links
 
@@ -19,3 +19,5 @@
 [![wakatime](https://wakatime.com/badge/user/23cc74e0-49dd-4f6e-b488-67c3123a6289.svg)](https://wakatime.com/@23cc74e0-49dd-4f6e-b488-67c3123a6289)
 
 [![This-is-XiaoDeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=This-is-XiaoDeng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=This-is-XiaoDeng&layout=compact)
