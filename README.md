@@ -1,4 +1,4 @@
-## 👋 Hi there, this is SunaōkamiNya!
+## 👋 Hi there, I'm SunaōkamiNya!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=This-is-XiaoDeng&theme=default)
 
